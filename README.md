@@ -86,7 +86,7 @@ servicenow-viacep-integration
 │
 ├── docs
 │   ├── api-response.json
-│   └── development-notes.md
+│   
 │
 ├── images
 │   ├── business-rule.png
