@@ -1,3 +1,8 @@
+![ServiceNow](https://img.shields.io/badge/ServiceNow-Developer-success)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES5-yellow)
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # ServiceNow ViaCEP REST Integration
 
 Projeto desenvolvido em **ServiceNow** com o objetivo de integrar a plataforma à API pública **ViaCEP**, preenchendo automaticamente informações de endereço a partir de um CEP informado pelo usuário.
