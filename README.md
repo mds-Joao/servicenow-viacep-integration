@@ -85,12 +85,10 @@ servicenow-viacep-integration
 ├── LICENSE
 │
 ├── docs
-│   ├── api-response.json
-│   
+│   ├── api-response.json  
 │
 ├── images
 │   ├── business-rule.png
-│   ├── business-rule-script.png
 │   ├── columns.png
 │   ├── filled-record.png
 │   ├── new-record.png
