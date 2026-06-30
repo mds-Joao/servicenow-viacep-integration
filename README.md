@@ -82,15 +82,23 @@ Preenchimento automático dos campos
 servicenow-viacep-integration
 │
 ├── README.md
+├── LICENSE
+│
 ├── docs
 │   ├── api-response.json
-│   ├── development-notes.md
-│   └── screenshots
+│   └── development-notes.md
 │
-├── scripts
-│   └── business-rule.js
+├── images
+│   ├── business-rule.png
+│   ├── business-rule-script.png
+│   ├── columns.png
+│   ├── filled-record.png
+│   ├── new-record.png
+│   └── table.png
 │
-└── LICENSE
+└── scripts
+    └── business-rule.js
+
 ```
 
 ---
